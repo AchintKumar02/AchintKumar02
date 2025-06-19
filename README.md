@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=achintkumar02&theme=flat&column=7" alt="achintkumar02 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=achintkumar02&theme=flat&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="achintkumar02 trophies" />
 </p>
 
 ---
@@ -59,6 +59,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="mailto:achitkr0204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Add LinkedIn or Portfolio links below if available -->
+  <a href="mailto:achitkr0204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
