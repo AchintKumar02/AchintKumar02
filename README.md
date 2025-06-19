@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achint Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=achintkumar02&label=Profile%20views&color=0e75b6&style=flat" alt="achintkumar02" />
@@ -7,11 +7,11 @@
 
 ---
 
--🔭 I’m currently working on **Full Stack Project**
--🌱 I’m currently learning **React** and improving my **Kubernetes** skills
--🧠 I have experience with **PostgreSQL**, **MySQL**, **MongoDB**, and **PHP**
--🤝 I’m looking to collaborate on **real-world web or mobile app projects**
--📫 Reach me at **achitkr0204@gmail.com**
+- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 I’m currently learning **React Native** and improving my **Kubernetes** skills
+- 🧠 I have experience with **PostgreSQL**, **MySQL**, **MongoDB**, and **PHP**
+- 🤝 I’m looking to collaborate on **real-world web or mobile app projects**
+- 📫 Reach me at **achitkr0204@gmail.com**
 
 ---
 
