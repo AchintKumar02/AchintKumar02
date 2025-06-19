@@ -7,11 +7,11 @@
 
 ---
 
-🔭 I’m currently working on **Full Stack Projects**
-🌱 I’m currently learning **React Native** and improving my **Kubernetes** skills
-🧠 I have experience with **PostgreSQL**, **MySQL**, **MongoDB**, and **PHP**
-🤝 I’m looking to collaborate on **real-world web or mobile app projects**
-📫 Reach me at **achitkr0204@gmail.com**
+-🔭 I’m currently working on **Full Stack Project**
+-🌱 I’m currently learning **React** and improving my **Kubernetes** skills
+-🧠 I have experience with **PostgreSQL**, **MySQL**, **MongoDB**, and **PHP**
+-🤝 I’m looking to collaborate on **real-world web or mobile app projects**
+-📫 Reach me at **achitkr0204@gmail.com**
 
 ---
 
